@@ -1,1 +1,1 @@
-web: BlazorWebAppMovies.dll --urls http://0.0.0.0:8080
+web: dotnet BlazorWebAppMovies.dll --urls http://0.0.0.0:8080
